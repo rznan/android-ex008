@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ex008</string>
+    <string name="title">Jogo de dados</string>
+    <string name="button_text">Rolar</string>
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="dice_label">dado</string>
+    <string name="select_dice_label">Escolha o dado</string>
+    <string name="dice_ammount_label">Quantidade de dados</string>
+    <string name="author_data">Renan Santos Carvalho\n1110482313034</string>
+</resources>
